@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yuj:home|Door43 (yuj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yuj|d43-yuj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yuj/archive/master.zip|d43-yuj.zip]]
+
+**Recent Changes**
+{{changes>ns = yuj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yuj|Ethnologue data]]
+
